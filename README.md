@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @triche-abiti-c
+👋 Hi, I’m @triche-abiti-c
+
 - 👀 I’m interested in Web Development - Backend
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to learn more 
