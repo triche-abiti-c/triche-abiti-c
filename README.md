@@ -1,6 +1,6 @@
 👋 Hi, I’m @triche-abiti-c
 
-- 👀 I’m interested in Application Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to learn more 
 - 📫 How to reach me ... https://www.linkedin.com/in/ctriche/
